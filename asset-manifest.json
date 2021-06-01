@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/teste-para-api-instagram/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/teste-para-api-instagram/static/js/main.4c393c47.chunk.js",
-    "main.js.map": "/teste-para-api-instagram/static/js/main.4c393c47.chunk.js.map",
-    "runtime-main.js": "/teste-para-api-instagram/static/js/runtime-main.208cd446.js",
-    "runtime-main.js.map": "/teste-para-api-instagram/static/js/runtime-main.208cd446.js.map",
-    "static/js/2.e1271a6e.chunk.js": "/teste-para-api-instagram/static/js/2.e1271a6e.chunk.js",
-    "static/js/2.e1271a6e.chunk.js.map": "/teste-para-api-instagram/static/js/2.e1271a6e.chunk.js.map",
-    "static/js/3.69e0a8b4.chunk.js": "/teste-para-api-instagram/static/js/3.69e0a8b4.chunk.js",
-    "static/js/3.69e0a8b4.chunk.js.map": "/teste-para-api-instagram/static/js/3.69e0a8b4.chunk.js.map",
+    "main.js": "/teste-para-api-instagram/static/js/main.7bb3e967.chunk.js",
+    "main.js.map": "/teste-para-api-instagram/static/js/main.7bb3e967.chunk.js.map",
+    "runtime-main.js": "/teste-para-api-instagram/static/js/runtime-main.42177622.js",
+    "runtime-main.js.map": "/teste-para-api-instagram/static/js/runtime-main.42177622.js.map",
+    "static/js/2.9fc9c0a1.chunk.js": "/teste-para-api-instagram/static/js/2.9fc9c0a1.chunk.js",
+    "static/js/2.9fc9c0a1.chunk.js.map": "/teste-para-api-instagram/static/js/2.9fc9c0a1.chunk.js.map",
+    "static/js/3.4ca85a8b.chunk.js": "/teste-para-api-instagram/static/js/3.4ca85a8b.chunk.js",
+    "static/js/3.4ca85a8b.chunk.js.map": "/teste-para-api-instagram/static/js/3.4ca85a8b.chunk.js.map",
     "index.html": "/teste-para-api-instagram/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/teste-para-api-instagram/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.e1271a6e.chunk.js.LICENSE.txt": "/teste-para-api-instagram/static/js/2.e1271a6e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/teste-para-api-instagram/static/media/logo.6ce24c58.svg"
+    "static/js/2.9fc9c0a1.chunk.js.LICENSE.txt": "/teste-para-api-instagram/static/js/2.9fc9c0a1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.208cd446.js",
-    "static/js/2.e1271a6e.chunk.js",
+    "static/js/runtime-main.42177622.js",
+    "static/js/2.9fc9c0a1.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.4c393c47.chunk.js"
+    "static/js/main.7bb3e967.chunk.js"
   ]
 }
