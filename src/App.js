@@ -21,6 +21,13 @@ class App extends React.Component {
 
   render() {
     console.log('teste')
+    
+    FB.getLoginStatus(function(response) {
+      if (response.status === 'connected') {
+        var accessToken = response.authResponse.accessToken;
+      } 
+    });
+
     FB.api('/me', function(response) {
       console.log(JSON.stringify(response));
     });
