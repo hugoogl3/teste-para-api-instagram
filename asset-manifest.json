@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/teste-para-api-instagram/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/teste-para-api-instagram/static/js/main.be78ec5c.chunk.js",
-    "main.js.map": "/teste-para-api-instagram/static/js/main.be78ec5c.chunk.js.map",
+    "main.js": "/teste-para-api-instagram/static/js/main.eb93ed64.chunk.js",
+    "main.js.map": "/teste-para-api-instagram/static/js/main.eb93ed64.chunk.js.map",
     "runtime-main.js": "/teste-para-api-instagram/static/js/runtime-main.42177622.js",
     "runtime-main.js.map": "/teste-para-api-instagram/static/js/runtime-main.42177622.js.map",
-    "static/js/2.108f0505.chunk.js": "/teste-para-api-instagram/static/js/2.108f0505.chunk.js",
-    "static/js/2.108f0505.chunk.js.map": "/teste-para-api-instagram/static/js/2.108f0505.chunk.js.map",
+    "static/js/2.e1af3f1d.chunk.js": "/teste-para-api-instagram/static/js/2.e1af3f1d.chunk.js",
+    "static/js/2.e1af3f1d.chunk.js.map": "/teste-para-api-instagram/static/js/2.e1af3f1d.chunk.js.map",
     "static/js/3.4ca85a8b.chunk.js": "/teste-para-api-instagram/static/js/3.4ca85a8b.chunk.js",
     "static/js/3.4ca85a8b.chunk.js.map": "/teste-para-api-instagram/static/js/3.4ca85a8b.chunk.js.map",
     "index.html": "/teste-para-api-instagram/index.html",
     "static/css/main.7d180cbf.chunk.css.map": "/teste-para-api-instagram/static/css/main.7d180cbf.chunk.css.map",
-    "static/js/2.108f0505.chunk.js.LICENSE.txt": "/teste-para-api-instagram/static/js/2.108f0505.chunk.js.LICENSE.txt"
+    "static/js/2.e1af3f1d.chunk.js.LICENSE.txt": "/teste-para-api-instagram/static/js/2.e1af3f1d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.42177622.js",
-    "static/js/2.108f0505.chunk.js",
+    "static/js/2.e1af3f1d.chunk.js",
     "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.be78ec5c.chunk.js"
+    "static/js/main.eb93ed64.chunk.js"
   ]
 }
