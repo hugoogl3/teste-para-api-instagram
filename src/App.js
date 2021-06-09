@@ -20,18 +20,7 @@ class App extends React.Component {
   }
 
   render() {
-    console.log('teste')
-    
-    FB.getLoginStatus(function(response) {
-      if (response.status === 'connected') {
-        var accessToken = response.authResponse.accessToken;
-      } 
-    });
-
-    FB.api('/me', function(response) {
-      console.log(JSON.stringify(response));
-    });
-
+    console.log(FB.getLoginStatus)
     return (
       <div className="App">
         <h1>teste</h1>
