@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/teste-para-api-instagram/static/css/main.7d180cbf.chunk.css",
-    "main.js": "/teste-para-api-instagram/static/js/main.5f9869a0.chunk.js",
-    "main.js.map": "/teste-para-api-instagram/static/js/main.5f9869a0.chunk.js.map",
+    "main.js": "/teste-para-api-instagram/static/js/main.278d0f2e.chunk.js",
+    "main.js.map": "/teste-para-api-instagram/static/js/main.278d0f2e.chunk.js.map",
     "runtime-main.js": "/teste-para-api-instagram/static/js/runtime-main.42177622.js",
     "runtime-main.js.map": "/teste-para-api-instagram/static/js/runtime-main.42177622.js.map",
     "static/js/2.e1af3f1d.chunk.js": "/teste-para-api-instagram/static/js/2.e1af3f1d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.42177622.js",
     "static/js/2.e1af3f1d.chunk.js",
     "static/css/main.7d180cbf.chunk.css",
-    "static/js/main.5f9869a0.chunk.js"
+    "static/js/main.278d0f2e.chunk.js"
   ]
 }
